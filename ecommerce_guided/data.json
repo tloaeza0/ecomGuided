@@ -1,0 +1,146 @@
+{"products":[
+    {
+    "name": "Scindapsis Pictus",
+    "image": "./images/scindapsis.jpeg",
+    "price": 10,
+    "description": "A pothos family trailing vine that grows well in low to medium light."
+},
+{
+    "name": "Monstera Deliciosa",
+    "image": "./images/monstera.jpeg",
+    "price": 20,
+    "description": "The popular monstera is a fast grower that likes indirect light."
+},
+{
+    "name": "ZZ",
+    "image": "./images/zz.jpeg" ,
+    "price": 10,
+    "description": "The ZZ is a great plant if you have low light conditions."
+},
+{
+    "name": "Sansevieria",
+    "image": "./images/snake.jpeg",
+    "price": 10,
+    "description": "Sansevieria also known as a snake plant does well in low light conditions."
+},
+{
+    "name":"Alocasia",
+    "image":"./images/alocasia.jpeg",
+    "price": 20,
+    "description": "Fast grower when given bright indirect light and high humidity."
+},
+{
+    "name": "Philodendron Birkin",
+    "image":"./images/birkin.jpeg",
+    "price": 25,
+    "description": "Part of the philodendron family the birkin grows in bright indirect light."
+},
+{
+    "name": "Rhaphidophora Tetrasperma",
+    "image": "./images/minimonstera.jpeg",
+    "price": 15,
+    "description": "Also known as the mini monstera is a trailing plant that does well in medium to bright light."
+},
+{
+    "name":"Moonshine Sansevieria",
+    "image": "./images/moonshine.jpeg",
+    "price": 18,
+    "description": "Part of the Sanseviera family the moonshine has light green leaves, does well in low light."
+},
+{
+    "name":"Monstera Adansonii",
+    "image":"./images/adansonii.jpeg",
+    "price":10,
+    "description": "A trailing vine that develops holes within the leave to make sure the bottom leaves recieve enough light."
+},
+{
+    "name":"Monstera Cutting",
+    "image": "./images/monsteracutting.jpeg",
+    "price": 8,
+    "description": "A big leaf cutting from the Monstera Deliciosa plant."
+},
+{
+    "name":"Air Plant",
+    "image":"./images/airplant.jpeg",
+    "price":20,
+    "description":"An air plant that needs no soil to grow just water every 2 weeks from the bottom."
+},
+{
+    "name":"Pilea Peperomiodes",
+    "image":"./images/pilea.jpeg",
+    "price":10,
+    "description":"A plant that grows many babies that are easy to propagate, does well in medium light."
+},
+{
+    "name":"Varigated Burle Marx Cutting",
+    "image":"./images/burle.jpeg",
+    "price":30,
+    "description":"Climbing burle marx with high varigation from mother plant, multiple nodes to propogate."
+},
+{
+    "name": "Philodendron Squamiferum",
+    "image":"./images/squamiferum.jpeg",
+    "price":50,
+    "description":"Part of the philodendron family known as the hairy philodendron likes indirect bright light with high humidity."
+},
+{
+    "name":"Monstera Albo",
+    "image":"./images/albo.jpeg",
+    "price":200,
+    "description":"A monstera deliciosa that has varigation that comes through even more with good indirect bright light."
+},
+{
+    "name":"White Princess",
+    "image":"./images/whiteprincess.jpeg",
+    "price":100,
+    "description":"A philodrendron with white varigation that produces more with bright indirect lighting."
+},
+{
+    "name":"Philodendron Verrucosum",
+    "image":"./images/verrucosum.jpeg",
+    "price":60,
+    "description":"From the philodendron family this plant loves humidity and bright indirect light."
+},
+{
+    "name":"Philodendron Red Cherry",
+    "image":"./images/redcherry.jpeg",
+    "price":30,
+    "description":"Known as the red cherry for its leaves that push out red then eventually turn green."
+},
+{
+    "name":"Monstera Albo cutting",
+    "image":"./images/albocutting.jpeg",
+    "price":80,
+    "description":"A cutting with two big leaves and active nodes that are easy to propagate comes from a half moon."
+},
+{
+    "name":"Pink Princess",
+    "image":"./images/pinkprincess.jpeg",
+    "price":100,
+    "description":"A philodrendron that produces pink variagation on leaves. High humidity and bright indirect light."
+},
+{
+    "name": "Thai Constellation",
+    "image":"./images/thaicon.jpeg",
+    "price":100,
+    "description":"A varigated thai constellation cutting extrememly rare, multiple growth points and nodes."
+},
+{
+    "name":"Syngonium Albo Cutting",
+    "image":"./images/syngoiumalbo.jpeg",
+    "price":25,
+    "description":"From the syngonium family this cutting comes from a highly varigated mom. Three leaves with multiple nodes."
+},
+{
+    "name": "Pink Princess",
+    "image":"./images/pinkprincesssmall.jpeg",
+    "price":40,
+    "description":"A smaller pink princess with two new growth points and good root system."
+},
+{
+    "name":"Syngonium Mojito",
+    "image":"./images/syngoniummojito.jpeg",
+    "price":25,
+    "description":"From the syngonium family this cutting comes from a highly varigated mom. Four leaves with multiple nodes."
+}
+]}
