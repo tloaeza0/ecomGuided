@@ -15,7 +15,7 @@ const Products = () => {
             <p>Price: $10.00</p>
             <button className="sold-out">Sold Out</button>
         </div>
-        {/* "https://images.unsplash.com/photo-1612363148951-15f16817648f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8aG91c2VwbGFudHN8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60" alt="scindapsus" */}
+      
         <div className="products">
             <img className="proImg" src="./images/monstera.jpeg" alt="Monstera Deliciosa"/>
             <h2>Monstera Deliciosa</h2>
